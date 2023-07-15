@@ -1,2 +1,2 @@
 # Login-Module
-By using Html and CSS
+By using HTML and CSS
